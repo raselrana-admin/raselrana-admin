@@ -6,7 +6,6 @@ I work where telecommunications infrastructure, electrical engineering and softw
 
 [![Website](https://img.shields.io/badge/Website-raselrana.com.bd-0A66C2?style=flat-square&logo=googlechrome&logoColor=white)](https://raselrana.com.bd)
 [![Email](https://img.shields.io/badge/Email-contact%40raselrana.com.bd-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@raselrana.com.bd)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-rasel62-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rasel62)
 
 ## Focus
 
@@ -33,7 +32,7 @@ Led DUET Robo Express to **two national championships** (ROBOLUTION 2016, Cybern
 
 - **[raselrana.com.bd](https://raselrana.com.bd):** personal website with a private content dashboard, built with Next.js, Tailwind CSS and MongoDB
 - **[Blog](https://raselrana.com.bd/blog):** technical blog, a separate Next.js app joined to the main site with Multi-Zones
-- **[Rahat's Learning Nest](https://github.com/raselrana-admin/rahats-learning-nest):** an app for saving and tracking learning links by subject, built with Next.js and Supabase
+
 
 ## Tools
 
@@ -45,5 +44,4 @@ Led DUET Robo Express to **two national championships** (ROBOLUTION 2016, Cybern
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=flat-square&logo=mikrotik&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white)
